@@ -1,0 +1,6 @@
+[submodule "external/cmsis_device_f0"]
+	path = external/cmsis_device_f0
+	url = git@github.com:STMicroelectronics/cmsis_device_f0.git
+[submodule "external/CMSIS_5"]
+	path = external/CMSIS_5
+	url = git@github.com:ARM-software/CMSIS_5.git
